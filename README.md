@@ -46,7 +46,7 @@
 <ul>
   <li><a href="https://www.scribd.com/user/673436576">Scribd.com</a></li>
   <li><a href="https://buayo.medium.com/">Medium.com</a></li>
-  <li><a href="https://id.pinterest.com/buayoooo">Pinterest.com</a></li>
+  <li><a href="https://id.pinterest.com/buayoooo/_pins/">Pinterest.com</a></li>
   <li><a href="https://buayoo.tumblr.com/archive">Tumblr.com</a></li>
   <li><a href="https://trakteer.id/kelasblogger">Trakteer.id</a></li>
 </ul>
