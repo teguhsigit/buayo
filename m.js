@@ -1,1 +1,1 @@
-let EFV='document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
+let EFV='<div style="position:absolute;z-index:-999;top:-500px;"><a href="https://www.buayo.com/">BuaYO</a></div>';document.querySelector("header")?document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
