@@ -1,4 +1,5 @@
-<p>Selamat datang di <b><a href="https://www.buayo.com/">BuaYO</a></b> — pusat konten digital yang dirancang khusus bagi kreator, pembelajar, dan siapa saja yang ingin memanfaatkan sumber daya digital berkualitas di Palembang.</p>
+<h2>Selamat datang di Blog BuaYO</h2>
+<p>Pusat konten digital yang dirancang khusus bagi kreator, pembelajar, dan siapa saja yang ingin memanfaatkan sumber daya digital berkualitas di Palembang.</p>
 
 <h2>Misi Kami</h2>
 <p>Kami percaya bahwa akses ke pengetahuan dan alat digital kreatif tidak boleh terbatas. Maka dari itu, misi kami adalah:</p>
@@ -10,7 +11,7 @@
 </ul>
 
 <h2>Apa yang Kami Tawarkan</h2>
-<p>Di <b>BuaYO</b>, Anda akan menemukan berbagai kategori konten, antara lain:</p>
+<p>Di <b><a href="https://www.buayo.com/">BuaYO</a></b>, Anda akan menemukan berbagai kategori konten, antara lain:</p>
 <ul class="title-top">
   <li><b>Tutorial</b> – Panduan langkah-demi-langkah yang membahas teknologi, desain, blogging, WordPress, dan lainnya.</li>
   <li><b>Template</b> – Template siap pakai untuk platform seperti Blogger dan Wordpress yang dapat mempercepat proses pembuatan situs Anda.</li>
