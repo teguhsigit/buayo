@@ -1,9 +1,9 @@
-<h2>Selamat datang di Blog BuaYO</h2>
+<h2>Selamat datang di Blog <a href="https://www.buayo.com/">BuaYO</a></h2>
 <p>Pusat konten digital yang dirancang khusus bagi kreator, pembelajar, dan siapa saja yang ingin memanfaatkan sumber daya digital berkualitas di Palembang.</p>
 
 <h2>Misi Kami</h2>
 <p>Kami percaya bahwa akses ke pengetahuan dan alat digital kreatif tidak boleh terbatas. Maka dari itu, misi kami adalah:</p>
-<ul class="title-top">
+<ul>
   <li>Menyediakan artikel tutorial yang informatif dan mudah diakses.</li>
   <li>Menawarkan template dan sumber daya digital yang siap pakai untuk kreator blog, website, dan platform lainnya.</li>
   <li>Memberikan materi soal pelajaran lengkap untuk siswa <b>SD</b> hingga <b>SMA</b> sebagai dukungan pembelajaran.</li>
@@ -11,8 +11,8 @@
 </ul>
 
 <h2>Apa yang Kami Tawarkan</h2>
-<p>Di <b><a href="https://www.buayo.com/">BuaYO</a></b>, Anda akan menemukan berbagai kategori konten, antara lain:</p>
-<ul class="title-top">
+<p>Di <b>BuaYO</b>, Anda akan menemukan berbagai kategori konten, antara lain:</p>
+<ul>
   <li><b>Tutorial</b> – Panduan langkah-demi-langkah yang membahas teknologi, desain, blogging, WordPress, dan lainnya.</li>
   <li><b>Template</b> – Template siap pakai untuk platform seperti Blogger dan Wordpress yang dapat mempercepat proses pembuatan situs Anda.</li>
   <li><b>Soal Pelajaran</b> – Kumpulan soal dan materi pembelajaran untuk <b>SD</b> (kelas 1–6), <b>SMP</b> (kelas 7–9) dan <b>SMA</b> (kelas 10–12), yang bisa digunakan untuk belajar mandiri atau sebagai bahan ajar tambahan.</li>
@@ -20,7 +20,7 @@
 </ul>
 
 <h2>Nilai Kami</h2>
-<ul class="title-top">
+<ul>
   <li><b>Keterjangkauan</b>:<br /> Kami ingin semua orang, baik pelajar, kreator amatir ataupun profesional, memiliki akses ke konten dan template yang bermanfaat tanpa hambatan besar.</li>
   <li><b>Kemudahan Penggunaan</b>:<br /> Semua konten ditulis dengan bahasa yang mudah dipahami dan langkah yang jelas, sehingga Anda bisa langsung praktek tanpa kebingungan.</li>
   <li><b>Relevansi Lokal</b>:<br /> Fokus kami adalah pengguna Indonesia baik dari sisi bahasa, kebutuhan, maupun konteks.</li>
@@ -37,7 +37,16 @@
 
 <h2>Hubungi Kami</h2>
 <p>Apabila Anda memiliki pertanyaan, saran, atau ingin bekerja sama, silakan hubungi kami melalui:</p>
-<ul class="title-top">
+<ul>
   <li>📧 Email: <a href="mailto:tegakdewek@gmail.com" rel="nofollow">tegakdewek@gmail.com</a></li>
   <li>🌍 Facebook: <a href="https://www.facebook.com/frogmanindonesia" rel="nofollow" target="_blank">https://www.facebook.com</a></li>
+</ul>
+
+<h2>Media Social</h2>
+<ul>
+  <li><a href="https://buayoo.tumblr.com">Tumblr.com</a></li>
+  <li><a href="https://www.scribd.com/user/673436576">Scribd.com</a></li>
+  <li><a href="">tegakdewek@gmail.com</a></li>
+  <li><a href="">tegakdewek@gmail.com</a></li>
+  <li><a href="">tegakdewek@gmail.com</a></li>
 </ul>
