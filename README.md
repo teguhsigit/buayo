@@ -44,9 +44,9 @@
 
 <h2>Media Social</h2>
 <ul>
-  <li><a href="https://buayoo.tumblr.com">Tumblr.com</a></li>
   <li><a href="https://www.scribd.com/user/673436576">Scribd.com</a></li>
-  <li><a href="">tegakdewek@gmail.com</a></li>
-  <li><a href="">tegakdewek@gmail.com</a></li>
+  <li><a href="https://buayo.medium.com/">Medium.com</a></li>
+  <li><a href="https://id.pinterest.com/buayoooo">Pinterest.com</a></li>
+  <li><a href="https://buayoo.tumblr.com/archive">Tumblr.com</a></li>
   <li><a href="">tegakdewek@gmail.com</a></li>
 </ul>
